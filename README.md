@@ -1,0 +1,2 @@
+# SimpleEQ
+Audio Plugin
